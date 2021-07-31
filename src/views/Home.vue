@@ -11,7 +11,7 @@
         Why buy just by a cup of coffee when you could get the same cup of
         coffee helping out people like our founder who was in a coma due to his
         TBI? Read more about what TBI is and how we are "helping"
-        <a href="https://reawaken-foundation.netlify.app/whatistbi">here</a>.
+        <a href="/whatistbi">here</a>.
         <br />
         Aside from just serving coffee at your company or at your events, we
         also offer technical services to help give your business an edge in our
@@ -34,9 +34,8 @@
     <div v-if="!mobileView" class="normal">
       <div class="home page mt">
         <div class="inline">
-          <h2 class="t2">Welcome to</h2>
-          <h1 class="title">The Reawaken</h1>
-          <h1 class="title">Foundation</h1>
+          <h2 class="t2">Welcome to the</h2>
+          <h1 class="title">Reawaken Foundation</h1>
           <h3 class="t2">&rarr; We Serve Coffee With a Purpose.</h3>
         </div>
         <div class="parent inline">
@@ -124,9 +123,5 @@ export default {
 .mobileT {
   margin-top: 1%;
   margin-right: 1%;
-}
-.page {
-  height: fit-content;
-  padding: 3%;
 }
 </style>

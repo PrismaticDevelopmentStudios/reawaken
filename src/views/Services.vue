@@ -152,6 +152,38 @@ export default {
 }
 .mobileT {
   background: white;
-  padding: 3%;
+}
+.mobileT {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.mobileT td,
+.mobileT th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  padding-left: 0;
+}
+
+.mobileT tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.mobileT tr:nth-child(odd) {
+  background-color: white;
+}
+
+.mobileT td:hover {
+  background-color: #ddd;
+}
+
+.mobileT th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
 }
 </style>
