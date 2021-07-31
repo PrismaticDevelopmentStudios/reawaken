@@ -54,8 +54,7 @@
                   Injury survivors. Why buy just by a cup of coffee when you
                   could get the same cup of coffee helping out people like our
                   founder who was in a coma due to his TBI? Read more about what
-                  TBI is and how we are "helping"
-                  <a href="/whatistbi">here</a>.
+                  TBI is on the "What Is TBI" page.
                 </h4>
                 <h4 class="p2">
                   Aside from just serving coffee at your company or at your
