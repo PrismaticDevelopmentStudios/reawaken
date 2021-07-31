@@ -2,8 +2,7 @@
   <div class="wrapper">
     <div v-if="mobileView" class="mobile">
       <div class="inline">
-        <h2 class="title mobileT">The Reawaken</h2>
-        <h2 class="title mobileT">Foundation</h2>
+        <h1 class="title mobileT">The Reawaken Foundation</h1>
       </div>
       <!-- <img src="@/assets/coffee.jpg" id="coffee-pic" alt="" class="inline" /> -->
       <div class="page text">
