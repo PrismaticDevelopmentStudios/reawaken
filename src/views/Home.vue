@@ -11,7 +11,7 @@
         Why buy just by a cup of coffee when you could get the same cup of
         coffee helping out people like our founder who was in a coma due to his
         TBI? Read more about what TBI is and how we are "helping"
-        <a href="https://reawaken-foundation.netlify.app/whatistbi">here</a>.
+        <a href="@/whatistbi">here</a>.
         <br />
         Aside from just serving coffee at your company or at your events, we
         also offer technical services to help give your business an edge in our
