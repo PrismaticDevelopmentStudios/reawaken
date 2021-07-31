@@ -163,7 +163,7 @@ export default {
 .mobileT td,
 .mobileT th {
   border: 1px solid #ddd;
-  padding: 8px;
+  /* padding: 8px; */
   padding-left: 0;
 }
 

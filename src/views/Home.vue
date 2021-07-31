@@ -5,6 +5,7 @@
         <h2 class="title mobileT">The Reawaken</h2>
         <h2 class="title mobileT">Foundation</h2>
       </div>
+      <!-- <img src="@/assets/coffee.jpg" id="coffee-pic" alt="" class="inline" /> -->
       <div class="page text">
         At Reawaken we fill a basic need (literally a cup of coffee). While
         serving you coffee, we are employing Traumatic Brain Injury survivors.

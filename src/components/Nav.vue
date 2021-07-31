@@ -3,8 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/whatistbi">TBI?</router-link> |
     <router-link to="/services">Services</router-link> |
-    <router-link to="/contact">Contact/Calendar</router-link> |
-    <router-link to="/partners">Partners</router-link>
+    <router-link to="/contact">Info</router-link> |
+    <!-- <router-link to="/partners">Partners</router-link> -->
     <router-view />
   </div>
 </template>
