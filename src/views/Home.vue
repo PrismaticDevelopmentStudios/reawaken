@@ -123,5 +123,6 @@ export default {
 .mobileT {
   margin-top: 1%;
   margin-right: 1%;
+  size: 0.8em;
 }
 </style>
