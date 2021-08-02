@@ -4,7 +4,11 @@
 
     <div>
       <h3 class="inline">719-351-5828</h3>
-      <h3 class="inline">reawakenfoundation@gmail.com</h3>
+      <h3 class="inline">
+        <a href="mailto:reawakenfoundation@gmail.com"
+          >reawakenfoundation@gmail.com</a
+        >
+      </h3>
     </div>
     <iframe
       v-if="mobileView"
