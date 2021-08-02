@@ -54,7 +54,7 @@
         </div>
         <div class="parent inline">
           <img
-            src="@/assets/coffee.jpg"
+            src="@/assets/cup-of-coffee.jpeg"
             id="coffee-pic"
             class="inline"
             alt="Image unavailable"
