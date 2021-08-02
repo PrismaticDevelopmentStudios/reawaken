@@ -77,8 +77,8 @@
                   your business on what services you may need and how to
                   effectively use media to grow and keep your business on the
                   cutting edge. Aside from just consulting, we offer video and
-                  we design services to help produce thi cutting edge media for
-                  your business.
+                  we design services to help produce the cutting edge media you
+                  might need for your business.
                 </h4>
                 <h4 class="p2">
                   One of our aims is to help support other nonprofits and to
