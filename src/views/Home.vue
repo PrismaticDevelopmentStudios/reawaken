@@ -59,8 +59,8 @@
                   The money for our coffee goes to helping these survivors.
                 </h3>
                 <h4 class="p1">
-                  All money we makegoesinto the Reawaken Fund which we use to
-                  pay for TBI survivors' medical debt and other expenses
+                  The cost of our coffee goes to the Reawaken Fund which, we use
+                  to pay for TBI survivors' medical debt and other expenses
                   incurred as a result of getting thir TBIs. Rebounding from
                   getting a TBI is nothing simple. It often takes multiple years
                   for survivors to fully recover. Simply having us serve coffee
