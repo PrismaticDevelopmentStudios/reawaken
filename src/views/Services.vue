@@ -63,8 +63,8 @@
             you or your business's website.
           </td>
           <td>
-            Consultation to help plan your company's digital media and digital
-            presence.
+            Consultation to help plan and design your company's digital media
+            and digital presence.
           </td>
         </tr>
         <tr>
@@ -90,8 +90,9 @@
           <td>Updating or editing of non Wordpress websites.</td>
           <td>Video production/editing</td>
           <td>
-            Technical consulting in regards to setting up your business. WIFI
-            planning & setup./ Set up, use and storage of video equipment.
+            Technical consulting in regards to web design, software design, and
+            digital technology integration. WIFI and other network planning &
+            setup. Installation, production, and storage of video equipment.
           </td>
         </tr>
       </table>
