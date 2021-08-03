@@ -21,12 +21,6 @@
           The money for our coffee goes to helping these survivors.
         </h3>
         <h4 class="p1">
-          We offer technical services to help give your business an edge in our
-          digital world. We consult on what services or media you may need to
-          effectively grow and keep your business on the cutting edge. We offer
-          video production, web design, web development, and graphic design.
-        </h4>
-        <h4 class="p1">
           All money we makegoesinto the Reawaken Fund which we use to pay for
           TBI survivors' medical debt and other expenses incurred as a result of
           getting thir TBIs. Rebounding from getting a TBI is nothing simple. It
@@ -64,13 +58,6 @@
                   <div class="big">3. Why:</div>
                   The money for our coffee goes to helping these survivors.
                 </h3>
-                <h4 class="p1">
-                  We offer technical services to help give your business an edge
-                  in our digital world. We consult on what services or media you
-                  may need to effectively grow and keep your business on the
-                  cutting edge. We offer video production, web design, web
-                  development, and graphic design.
-                </h4>
                 <h4 class="p1">
                   All money we makegoesinto the Reawaken Fund which we use to
                   pay for TBI survivors' medical debt and other expenses
