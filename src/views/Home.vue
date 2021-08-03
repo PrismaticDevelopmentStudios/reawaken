@@ -62,36 +62,32 @@
           <div class="inline">
             <table>
               <tr>
+                <h3 class="p1">
+                  <div class="big">1. What:</div>
+                  Coffee service for events
+                </h3>
+                <h3 class="p1">
+                  <div class="big">2. Who:</div>
+                  Employing traumatic brain injury survivors
+                </h3>
+                <h3 class="p1">
+                  <div class="big">3. Why:</div>
+                  The money for our coffee goes to helping these survivors.
+                </h3>
                 <h4 class="p1">
-                  At Reawaken we fill a basic need (literally a cup of coffee).
-                  While serving you coffee, we are employing Traumatic Brain
-                  Injury survivors. Why buy just by a cup of coffee when you
-                  could get the same cup of coffee helping out people like our
-                  founder who was in a coma due to his TBI? Read more about what
-                  TBI is on the "What Is TBI" page.
+                  We offer technical services to help give your business an edge
+                  in our digital world. We consult on what services or media you
+                  may need to effectively grow and keep your business on the
+                  cutting edge. We offer video production, web design, web
+                  development, and graphic design.
                 </h4>
-                <h4 class="p2">
-                  Aside from just serving coffee at your company or at your
-                  events, we also offer technical services to help give your
-                  business an edge in our digital world. We will consult with
-                  your business on what services you may need and how to
-                  effectively use media to grow and keep your business on the
-                  cutting edge. Aside from just consulting, we offer video
-                  production (both filming and editing) as well as web design
-                  services to help produce the cutting edge media you might need
-                  for your business.
-                </h4>
-                <h4 class="p2">
-                  One of our aims is to help support other nonprofits and to
-                  open up our very own coffee shop where TBI survivors and other
-                  individuals with disabilities can hang out and better
-                  understand their disabilities. When you purchase a cup of
-                  coffee at an event where our foundation is working, money that
-                  we make goes to our fund where we help provide funds to pay
-                  for TBI survivors' medical debt and other expenses incurred as
-                  a result of getting a TBI. Rebounding from getting a TBI is
-                  nothing simple. It often takes multiple years for survivors to
-                  fully recover.
+                <h4 class="p1">
+                  All money we makegoesinto the Reawaken Fund which we use to
+                  pay for TBI survivors' medical debt and other expenses
+                  incurred as a result of getting thir TBIs. Rebounding from
+                  getting a TBI is nothing simple. It often takes multiple years
+                  for survivors to fully recover. Simply having us serve coffee
+                  at an event helps TBI survivors.
                 </h4>
               </tr>
             </table>
@@ -138,5 +134,8 @@ export default {
   margin-top: 1%;
   margin-right: 1%;
   size: 0.8em;
+}
+.big {
+  font-size: 2em;
 }
 </style>
