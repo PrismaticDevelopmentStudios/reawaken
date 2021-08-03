@@ -144,8 +144,8 @@ export default {
 .reg th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
-  background-color: #04aa6d;
+  text-align: center;
+  background-color: #aa8304;
   color: white;
 }
 #media {
@@ -183,8 +183,8 @@ export default {
 .mobileT th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
-  background-color: #04aa6d;
+  text-align: center;
+  background-color: #aa8304;
   color: white;
 }
 </style>
