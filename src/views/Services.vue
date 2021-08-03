@@ -187,4 +187,7 @@ export default {
   background-color: #aa8304;
   color: white;
 }
+td {
+  text-align: left;
+}
 </style>
