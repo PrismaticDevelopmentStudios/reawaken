@@ -63,7 +63,7 @@
           </div>
           <div class="text">
             Reawaken is intended to help get survivors back on their feet again
-            by providing a safe space to begin working. This can inckude
+            by providing a safe space to begin working. This can include
             offering shorter shifts in order to prevent our survivors from
             becoming too fatigued. There are often many different physical or
             mental struggles that TBI survivors have to grapple with on a daily
