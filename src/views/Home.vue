@@ -14,7 +14,7 @@
         </h3>
         <h3 class="p1">
           <div class="big">2. Who:</div>
-          Employing traumatic brain injury survivors
+          We employ traumatic brain injury survivors
         </h3>
         <h3 class="p1">
           <div class="big">3. Why:</div>
@@ -58,7 +58,7 @@
                 </h3>
                 <h3 class="p1">
                   <div class="big">2. Who:</div>
-                  Employing traumatic brain injury survivors
+                  We employ traumatic brain injury survivors
                 </h3>
                 <h3 class="p1">
                   <div class="big">3. Why:</div>
