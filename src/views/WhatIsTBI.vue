@@ -13,7 +13,7 @@
             TBI, or traumatic brain injury, happens to far more people than you
             likely realize. Most commonly be incur a TBI from severe car
             accidents. Also one can get a TBI from playing sports such as
-            footbal, mountain biking, motocross, riding horses, or simply
+            football, mountain biking, motocross, riding horses, or simply
             slipping in the shower. A TBI is considered an invisible injury
             because sometimes TBI survivors may look uninjured, but because
             one's brain controls your entire body, there can be complications
